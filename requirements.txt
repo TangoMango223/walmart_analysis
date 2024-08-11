@@ -1,0 +1,20 @@
+# Data Analysis and EDA
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+tabulate
+statsmodels
+
+# Models and Machine Learning
+scikit-learn
+xgboost
+lightgbm
+shap
+
+# NLP
+textblob
+
+# Optional (if you use API keys, uncomment these)
+# python-dotenv
